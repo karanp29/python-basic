@@ -1,0 +1,2 @@
+# slicing 
+# reverse a string

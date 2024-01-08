@@ -1,0 +1,15 @@
+- datatypes 
+- list 
+- sets
+- tuples
+- dictionary
+- string methods
+- conditional / loop / break / continue ✅
+- exception / custom exception ✅
+- filehandling  ✅
+- gui with tkinter ✅
+- db connection  ✅
+- classes and object constructor ✅
+- inheritance ✅
+- encapsulation ✅
+
