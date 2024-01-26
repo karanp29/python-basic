@@ -61,7 +61,7 @@ dropdown_var.set("Option 1")
 
 # Create a dropdown (OptionMenu) and associate it with the variable
 options = ["Option 1", "Option 2", "Option 3"]
-dropdown = OptionMenu(root, dropdown_var, *options)
+dropdown = OptionMenu(root, variable = dropdown_var, *options)
 dropdown.pack(pady=10)
 
 # button

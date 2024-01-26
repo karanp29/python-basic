@@ -1,6 +1,6 @@
 tu = (["karan",1],["KP",2])
 for x in tu:
-    # unpacking 
+    # unpacking  
     name , id = x
     print(name ,id)
 

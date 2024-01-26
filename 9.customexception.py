@@ -12,7 +12,7 @@ except CustomError:
 # -----------------------------------------------
     # define CustomError
 class InsufficientBalanceError (Exception):
-    "Insufficient Balance Error Message"
+    ...
     pass
 
 # use custom error
